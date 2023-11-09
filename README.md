@@ -6,7 +6,7 @@
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 <div id="socials" align="center">
   <a href="[linkedin-url](https://discord.gg/5sJBNzhrS5)">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
   </a>
 </div>
 
