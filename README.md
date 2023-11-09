@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/username/github-readme-stats)
-<!--
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
--->          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;     
