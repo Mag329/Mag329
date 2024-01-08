@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@Mag329">
-    <img src="https://wakatime.com/badge/user/018b919c-8ec9-4a53-9254-f550cb396443.svg" />
+      <img src="https://wakatime.com/badge/user/018b919c-8ec9-4a53-9254-f550cb396443.svg" alt="Total time coded since Nov 2 2023" />
   </a>
 </p>
 
